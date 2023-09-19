@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "TaoJiang"
-description              : "This is JiangThea's academic homepage."
+description              : "This is JiangThea's academic homepage"
 repository               : "JiangThea/JiangThea.github.io"
 google_scholar_stats_use_cdn : true
 
